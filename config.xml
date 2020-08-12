@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.gmail.Isadora.Corrida_Doida"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Corrida doida</name>
+
+  <description>
+      jogo feito por uma estudante de informatica.
+  </description>
+
+  <author href="https://Tavernadojedi.com.br" email="support@phonegap.com">
+      Batata Docis
+  </author>
+		<icon src="icon.png" />
+</widget>
